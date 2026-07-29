@@ -1,0 +1,9 @@
+pygame
+requests
+mysql-connector-python
+pyautogui
+tinytuya
+edge-tts
+pyaudio
+SpeechRecognition
+python-dotenv
