@@ -16,6 +16,9 @@
   <a href="#-türkçe">🇹🇷 Türkçe</a>
 </p>
 
+> 🚧 This is version 1.0 — actively under development, more features and improvements are on the way.
+> 🚧 Bu, 1.0 sürümüdür — aktif olarak geliştiriliyor, yeni özellikler ve iyileştirmeler yolda.
+
 ---
 
 <br>
@@ -57,7 +60,6 @@
 <p align="center">
   <img src="img/img1.png" width="30%" alt="Vera GUI - idle state">
   <img src="img/img2.png" width="30%" alt="Vera GUI - listening state">
-  <img src="img/img3.png" width="30%" alt="Vera GUI - speaking state">
 </p>
 
 ## ⚙️ How it works
@@ -171,7 +173,6 @@ This project is licensed under the [MIT License](LICENSE).
 <p align="center">
   <img src="img/img1.png" width="30%" alt="Vera arayüzü - boşta durum">
   <img src="img/img2.png" width="30%" alt="Vera arayüzü - dinleme durumu">
-  <img src="img/img3.png" width="30%" alt="Vera arayüzü - konuşma durumu">
 </p>
 
 ## ⚙️ Nasıl Çalışıyor

@@ -314,7 +314,7 @@ def dosya_gezgini_ac() -> str:
 
 def guc_onay_kontrol(metin_n: str) -> tuple:
     """Güç onay durumunu kontrol eder ve onay/iptal işlemlerini yönetir."""
-    from utils import icerir
+    from core.utils import icerir
     
     if _guc_onay["islem"] is None or time.time() - _guc_onay["zaman"] >= GUC_ONAY_SURE:
         return None, None
