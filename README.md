@@ -137,7 +137,6 @@ This project is licensed under the [MIT License](LICENSE).
 
 <!-- 🇹🇷 TURKISH SECTION -->
 <h1 align="center" id="-türkçe">🇹🇷 Türkçe</h1>
-<h2 align="center">🎙️ Vera</h2>
 <hr>
 
 ## 📖 Hakkında
