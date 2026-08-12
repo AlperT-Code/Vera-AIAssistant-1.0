@@ -1,4 +1,4 @@
-<h1 align="center">🎙️ Vera</h1>
+<h1 align="center">🎙️ Vera AI Assistant</h1>
 <p align="center">A Turkish-speaking desktop voice assistant built with Python &amp; Tkinter — controls Spotify, smart bulbs and your system, checks the weather, launches apps, and chats using an LLM.</p>
 <p align="center">Python ve Tkinter ile geliştirilmiş, Türkçe konuşan bir masaüstü sesli asistanı — Spotify, akıllı ampul ve sistem kontrolü yapar, hava durumuna bakar, uygulama açar ve bir LLM ile sohbet eder.</p>
 
